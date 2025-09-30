@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Amazing Theme
-image: "https://unsplash.com/photos/green-leaf-plants-Gb1DbC0wwgQ"
+image: "https://raw.githubusercontent.com/a-chacon/awesome-jekyll-theme/main/screenshots/blog.png"
 tags:
   - tailwindcss
   - html
