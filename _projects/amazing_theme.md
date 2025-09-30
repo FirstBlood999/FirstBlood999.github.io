@@ -1,8 +1,7 @@
 ---
 layout: project
 title: Amazing Theme
-image: 
-"https://unsplash.com/photos/green-leaf-plants-Gb1DbC0wwgQ"
+image: "https://unsplash.com/photos/green-leaf-plants-Gb1DbC0wwgQ"
 tags:
   - tailwindcss
   - html
